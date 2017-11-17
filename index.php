@@ -7,11 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Título</title>
     </head>
     <body>
         
-        Teste aprimorado
+        Teste aprimorado, agora alterado em outra fonte
+        
+        Outra linha!
         
     </body>
 </html>
