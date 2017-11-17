@@ -10,8 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        Teste
-        ?>
+        
+        Teste aprimorado
+        
     </body>
 </html>
